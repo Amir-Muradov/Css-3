@@ -1,0 +1,118 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-decoration:none;
+    list-style:none;
+}
+header{
+    background-color: white;
+    height: 100px;
+}
+.container{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+.demo{
+    display: inline-block;
+    vertical-align: top;
+    line-height: 100px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 200px;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+    line-height: 100px;
+    text-align: center;
+}
+#sec_one{
+    background-image: url("https://wallpaperset.com/w/full/1/a/1/10900.jpg");
+    width: 1345px;
+    height: 600px;
+    background-size: cover;
+}
+#div_one{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 0 auto;
+    padding-top: 200px;
+    text-align: center;
+}
+span{
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+}
+#Read{
+    width: 150px;
+    height: 40px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius:4px;
+}
+#Download{
+    width: 200px;
+    height: 40px;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    border-radius: 4px;
+}
+h2{
+    font-size: 30px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+section img{
+    height: 300px;
+    width: 500px;
+    margin-left: 280px;
+    object-fit: cover;
+}
+#div_four{
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+    background-color:beige ;
+}
+#lorem{
+    display: inline-block;
+    text-align:left ;
+    margin-left: 600px;
+}
+#img_two{
+    height: 300px;
+    width: 450px;
+    margin-left: 650px;
+    object-fit: cover;
+}
+#div_six{
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+}
+#lorem_two{
+    display: inline-block;
+    text-align:left ;
+    margin-left: 180px;
+}
+#sec_two{
+    background-color: beige;
+}
+#sec_three{
+    background-color: blanchedalmond;
+}    
